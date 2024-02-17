@@ -3,8 +3,8 @@ Bu depoda, bir çalışma için oluşturulan tweet kazıma içeriğinin kodları
 
 #Kullanım# Bu geliştirici, açık kaynak kodlu paketlerden biri olan rtweet paketlerini içerir. Pakete ve ayrıntılı özelliklere [buradan](https://github.com/ropensci/rtweet) ulaşabilirsiniz.
 
-Bu paket sayesinde web üzerinden kaynak kodlarıyla uğraşmadan tweetleri çekebilirsiniz. Dataframe heline getirdiğinizde her işleme hazır hale gelecektir. NLP için tam anlamıyla biçilmiş kaftan.
+Bu paket sayesinde web üzerinden kaynak kodlarıyla uğraşmadan tweetleri çekebilirsiniz. Dataframe heline getirdiğinizde her işleme hazır hale gelecektir. Birçok analiz için tam anlamıyla biçilmiş kaftan.
 
-Kodlara ve açıklamalara dosyadan, yazının linkine buradan ulaşabilirsiniz.
+Kodlara ve açıklamalara dosyadan ulaşabilirsiniz.
 
 Takıldığınız bir şey olursa bana her zaman profilimdeki sosyal ağlardan ulaşabilirsiniz.
